@@ -5,7 +5,7 @@
 ### Team Size : 4
 ---
 ### 👨‍💻 Team Members
-Team Leader:Mahima Madri
+Team Leader : Mahima Madri
 
 Team member : Golla Uma Maheshwari
 
