@@ -5,9 +5,9 @@
 ### Team Size : 4
 ---
 ### 👨‍💻 Team Members
-Team LeMahima Madri
+Team Leader:Mahima Madri
 
-Team member : G : uma Maheshwari
+Team member : Golla Uma Maheshwari
 
 Team member : Gorava Mythri
 
